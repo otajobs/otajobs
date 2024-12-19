@@ -4,18 +4,17 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on various web development projects.
+- 🔭 I’m currently working on various app development projects.
 - 🌱 I’m constantly learning new things, currently diving deeper into **JavaScript** and **React**.
-- 💬 Ask me about web development, JavaScript, and open-source contributions.
-- 📫 How to reach me: [Email Me](mailto:your-email@example.com)
-- ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
+- 💬 Ask me about app development and open-source contributions.
+- 📫 How to reach me: [Email Me](mailto:otajonruzimov@gmail.com)
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, Python, HTML, CSS
-- **Frameworks:** React, Node.js, Express
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, Docker, VSCode
+- **Languages:** Swift
+- **Frameworks:** SwiftUI, UIKit
+- **Databases:** CoreData, SwiftData
+- **Tools:** XCode, Git
 
 ## 📈 GitHub Stats
 
@@ -23,15 +22,8 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Twitter](https://twitter.com/your-profile)
-- [Personal Website/Blog](https://your-website.com)
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Title of your latest blog post](https://your-blog.com/post-title)
-- [Another blog post title](https://your-blog.com/post-title)
-<!-- BLOG-POST-LIST:END -->
+- [LinkedIn](https://www.linkedin.com/in/otajon-ruzimov/)
+- [Telegram](https://t.me/otajobs)
+- [Personal Website](https://riddin.uz)
 
 *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*

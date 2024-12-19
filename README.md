@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 - 🔭 I’m currently working on various app development projects.
 - 🌱 I’m constantly learning new things, currently diving deeper into **JavaScript** and **React**.
 - 💬 Ask me about app development and open-source contributions.
-- 📫 How to reach me: [Email Me](mailto:otajonruzimov@gmail.com)
+- 📫 How to reach me: [otajonruzimov@gmail.com](mailto:otajonruzimov@gmail.com)
 
 ## 🛠️ Technologies & Tools
 
